@@ -1,0 +1,13 @@
+{
+  "name": "workshop-controller",
+  "version": "0.1.0",
+  "description": "Controller for Kuberntes Workshop",
+  "author": "Lukasz Biegaj <lukasz.biegaj@unitygroup.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
